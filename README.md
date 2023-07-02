@@ -5,7 +5,7 @@ WriteApi ve ReadApi içerisinde api versionlama kullanıldı. Swagger ile de ara
 Swagger özelinde XML dosyası kullanılarak Swagger arayüzü güzelleştirildi. Hatta swagger için css de kullandım.(wwwroot>swagger-ui)
 WriteApi SQL server kullanıyor. Verileri kaydederken aynı zamanda rabbitMQ daki ilgili kuyruğa event bilgisi ile birlikte entity gönderiyor.
 ReadApi Redis ten verileri okuyor.
-Consumer_WS bir worker service olarak geliştirildi. RabbitMq da kuyruğa eklenen verileri redis e basıyor. Burada eventual consistency mevcut. CQRS in tek gördüğüm drawback i bu gibi.
+Consumer_WS bir worker service olarak geliştirildi. RabbitMq da kuyruğa eklenen verileri consume edip, redis e basıyor. Burada eventual consistency mevcut. CQRS in tek gördüğüm drawback i bu gibi.
 
 DDD yaklaşımını uygulamaya çalıştım. Features klasörü içeriğinden bunu anlayabilirsiniz. Query ve Command isimlendirmeleri bir domainin bir businessina işaret ediyor. EventType gibi bir alan da DB de saklanıyor.
 
