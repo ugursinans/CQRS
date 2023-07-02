@@ -16,3 +16,16 @@ kubernates de pub lar ile de yönetilebilir. Bir sonraki çalışmam bunun üzer
 
 EF Core code first kullandım. Burada entity framework default olara nvarchar kullanıyordu bunları varchar a çektim gerekli uzunlukları verdim.
 
+deprecate olmuş WriteApi sürümü görseli:docv1
+![image](https://github.com/ugursinans/CQRS/assets/17143493/5dd4ae1e-d14e-4ae0-afc0-5e7ef78923b2)
+deprecate olmayan WriteApi sürümü görseli: docv2
+![image](https://github.com/ugursinans/CQRS/assets/17143493/be4679d4-ec02-4dea-9d2e-33f2725cfa2d)
+
+redis görseli:
+![image](https://github.com/ugursinans/CQRS/assets/17143493/b6b426f1-59a6-4e91-8fec-1e670c66f5ea)
+
+docker görseli:
+![image](https://github.com/ugursinans/CQRS/assets/17143493/f937201f-a9b7-4479-9c49-4c53b1b11b83)
+
+rabbitmq görseli: tek kuyruk var, durable= true, autoack= false
+![image](https://github.com/ugursinans/CQRS/assets/17143493/bcc487b4-27a6-4838-be90-7b32c899eeb6)
