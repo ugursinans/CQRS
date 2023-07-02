@@ -1,0 +1,10 @@
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.Core/bin/Debug/netcoreapp3.1/CQRSMeetup.Core.deps.json
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.Core/bin/Debug/netcoreapp3.1/CQRSMeetup.Core.dll
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.Core/bin/Debug/netcoreapp3.1/CQRSMeetup.Core.pdb
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.Core/obj/Debug/netcoreapp3.1/CQRSMeetup.Core.csproj.AssemblyReference.cache
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.Core/obj/Debug/netcoreapp3.1/CQRSMeetup.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.Core/obj/Debug/netcoreapp3.1/CQRSMeetup.Core.AssemblyInfoInputs.cache
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.Core/obj/Debug/netcoreapp3.1/CQRSMeetup.Core.AssemblyInfo.cs
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.Core/obj/Debug/netcoreapp3.1/CQRSMeetup.Core.csproj.CoreCompileInputs.cache
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.Core/obj/Debug/netcoreapp3.1/CQRSMeetup.Core.dll
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.Core/obj/Debug/netcoreapp3.1/CQRSMeetup.Core.pdb

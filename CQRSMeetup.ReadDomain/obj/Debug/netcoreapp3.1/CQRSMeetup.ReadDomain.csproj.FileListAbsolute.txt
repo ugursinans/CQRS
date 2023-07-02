@@ -1,0 +1,13 @@
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.ReadDomain/bin/Debug/netcoreapp3.1/CQRSMeetup.ReadDomain.deps.json
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.ReadDomain/bin/Debug/netcoreapp3.1/CQRSMeetup.ReadDomain.dll
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.ReadDomain/bin/Debug/netcoreapp3.1/CQRSMeetup.ReadDomain.pdb
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.ReadDomain/bin/Debug/netcoreapp3.1/CQRSMeetup.Core.dll
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.ReadDomain/bin/Debug/netcoreapp3.1/CQRSMeetup.Core.pdb
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.ReadDomain/obj/Debug/netcoreapp3.1/CQRSMeetup.ReadDomain.csproj.AssemblyReference.cache
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.ReadDomain/obj/Debug/netcoreapp3.1/CQRSMeetup.ReadDomain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.ReadDomain/obj/Debug/netcoreapp3.1/CQRSMeetup.ReadDomain.AssemblyInfoInputs.cache
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.ReadDomain/obj/Debug/netcoreapp3.1/CQRSMeetup.ReadDomain.AssemblyInfo.cs
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.ReadDomain/obj/Debug/netcoreapp3.1/CQRSMeetup.ReadDomain.csproj.CoreCompileInputs.cache
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.ReadDomain/obj/Debug/netcoreapp3.1/CQRSMeetup.ReadDomain.csproj.CopyComplete
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.ReadDomain/obj/Debug/netcoreapp3.1/CQRSMeetup.ReadDomain.dll
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.ReadDomain/obj/Debug/netcoreapp3.1/CQRSMeetup.ReadDomain.pdb

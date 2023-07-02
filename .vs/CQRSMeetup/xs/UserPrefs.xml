@@ -1,0 +1,81 @@
+﻿<Properties StartupConfiguration="{689B2A2C-3939-416B-B986-918A463D696A}|Default">
+  <MonoDevelop.Ide.ItemProperties.CQRSMeetup.ReadApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.CQRSMeetup.WriteApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CQRSMeetup.ProjectionConsumer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CQRSMeetup.ProjectionConsumer/Consumer.cs">
+    <Files>
+      <File FileName="CQRSMeetup.ReadApi/Startup.cs" Line="40" Column="66" IsPinned="True" />
+      <File FileName="CQRSMeetup.WriteApi/Startup.cs" Line="41" Column="73" />
+      <File FileName="CQRSMeetup.ReadDomain/StockModel.cs" Line="1" Column="1" />
+      <File FileName="CQRSMeetup.WriteDomain/BaseEntity.cs" Line="8" Column="37" />
+      <File FileName="CQRSMeetup.WriteDomain/LocationEntity.cs" Line="1" Column="1" />
+      <File FileName="CQRSMeetup.WriteDomain/ProductEntity.cs" Line="7" Column="37" />
+      <File FileName="CQRSMeetup.WriteDomain/StockEntity.cs" Line="14" Column="9" />
+      <File FileName="CQRSMeetup.ProjectionConsumer/Program.cs" Line="29" Column="60" />
+      <File FileName="CQRSMeetup.ProjectionConsumer/appsettings.json" Line="12" Column="23" />
+      <File FileName="CQRSMeetup.ProjectionConsumer/Consumer.cs" Line="78" Column="22" />
+      <File FileName="CQRSMeetup.Core/Enums/RecordStatuses.cs" Line="11" Column="20" />
+      <File FileName="CQRSMeetup.Core/Enums/EventTypes.cs" Line="12" Column="20" />
+      <File FileName="CQRSMeetup.Core/Enums/StockStatuses.cs" Line="12" Column="20" />
+      <File FileName="CQRSMeetup.Core/Mapper/AutoMapperProfile.cs" Line="20" Column="52" />
+      <File FileName="CQRSMeetup.Core/Mapper/IMapping.cs" Line="1" Column="1" />
+      <File FileName="CQRSMeetup.Core/Models/RedisConfigModel.cs" Line="9" Column="9" />
+      <File FileName="CQRSMeetup.Core/RabbitMq/IRabbitMqService.cs" Line="1" Column="1" />
+      <File FileName="CQRSMeetup.Core/RabbitMq/RabbitMqService.cs" Line="51" Column="14" />
+      <File FileName="CQRSMeetup.Core/Redis/IRedisService.cs" Line="9" Column="11" />
+      <File FileName="CQRSMeetup.Core/Redis/RedisService.cs" Line="29" Column="21" />
+      <File FileName="CQRSMeetup.Core/Swagger/ConfigureSwaggerOptions.cs" />
+      <File FileName="CQRSMeetup.Core/Swagger/SwaggerDefaultValues.cs" />
+      <File FileName="CQRSMeetup.ReadApi/Features/Stock/Queries/GetStockQuery.cs" Line="36" Column="46" />
+      <File FileName="CQRSMeetup.ReadApi/Program.cs" Line="1" Column="1" />
+      <File FileName="CQRSMeetup.ReadApi/Controllers/StockController.cs" Line="30" Column="33" />
+      <File FileName="CQRSMeetup.WriteApi/Controllers/StockController.cs" Line="34" Column="40" />
+      <File FileName="CQRSMeetup.WriteApi/Features/Stock/Validators/ChangeStockStatusValidator.cs" />
+      <File FileName="CQRSMeetup.WriteApi/Infrastructures/Database/CQRSMeetupDbContext.cs" Line="35" Column="16" />
+      <File FileName="CQRSMeetup.WriteApi/Infrastructures/Database/Repository.cs" Line="134" Column="14" />
+      <File FileName="CQRSMeetup.WriteApi/Infrastructures/Database/SeedDataGenerator.cs" Line="11" Column="35" />
+      <File FileName="CQRSMeetup.WriteApi/Features/Stock/Commands/ChangeStockStatusCommand.cs" Line="11" Column="53" />
+      <File FileName="CQRSMeetup.WriteApi/Features/Stock/Commands/EntryProductCommand.cs" Line="55" Column="40" />
+      <File FileName="CQRSMeetup.ReadApi/Features/Stock/Models/StockResponseModel.cs" Line="27" Column="10" />
+      <File FileName="CQRSMeetup.ReadApi/Features/Stock/Queries/GetStocksQuery.cs" Line="38" Column="6" />
+      <File FileName="CQRSMeetup.WriteApi/Features/Stock/Commands/SaleProductCommand.cs" Line="41" Column="55" />
+      <File FileName="CQRSMeetup.WriteApi/Features/Stock/Validators/EntryProductValidator.cs" />
+      <File FileName="CQRSMeetup.WriteApi/Features/Stock/Validators/SaleProductValidator.cs" />
+      <File FileName="CQRSMeetup.WriteApi/Program.cs" Line="26" Column="10" />
+      <File FileName="CQRSMeetup.WriteApi/appsettings.json" Line="19" Column="22" />
+      <File FileName="CQRSMeetup.WriteApi/appsettings.Development.json" Line="7" Column="6" />
+      <File FileName="CQRSMeetup.WriteApi/Properties/launchSettings.json" />
+      <File FileName="CQRSMeetup.WriteApi/Features/Stock/Models/BaseResponseModel.cs" Line="10" Column="37" />
+      <File FileName="CQRSMeetup.ReadApi/appsettings.json" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CQRSMeetup" expanded="True">
+            <Node name="CQRSMeetup.ProjectionConsumer" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Consumer.cs" selected="True" />
+            </Node>
+            <Node name="CQRSMeetup.WriteApi" expanded="True">
+              <Node name="Features" expanded="True">
+                <Node name="Stock" expanded="True">
+                  <Node name="Commands" expanded="True" />
+                  <Node name="Models" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Infrastructures" expanded="True">
+                <Node name="Database" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

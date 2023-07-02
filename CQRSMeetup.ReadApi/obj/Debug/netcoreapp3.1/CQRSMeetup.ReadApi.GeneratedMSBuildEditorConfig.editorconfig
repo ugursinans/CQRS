@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CQRSMeetup.ReadApi
+build_property.ProjectDir = /Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.ReadApi/

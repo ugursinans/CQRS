@@ -1,0 +1,13 @@
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.WriteDomain/bin/Debug/netcoreapp3.1/CQRSMeetup.WriteDomain.deps.json
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.WriteDomain/bin/Debug/netcoreapp3.1/CQRSMeetup.WriteDomain.dll
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.WriteDomain/bin/Debug/netcoreapp3.1/CQRSMeetup.WriteDomain.pdb
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.WriteDomain/bin/Debug/netcoreapp3.1/CQRSMeetup.Core.dll
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.WriteDomain/bin/Debug/netcoreapp3.1/CQRSMeetup.Core.pdb
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.WriteDomain/obj/Debug/netcoreapp3.1/CQRSMeetup.WriteDomain.csproj.AssemblyReference.cache
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.WriteDomain/obj/Debug/netcoreapp3.1/CQRSMeetup.WriteDomain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.WriteDomain/obj/Debug/netcoreapp3.1/CQRSMeetup.WriteDomain.AssemblyInfoInputs.cache
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.WriteDomain/obj/Debug/netcoreapp3.1/CQRSMeetup.WriteDomain.AssemblyInfo.cs
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.WriteDomain/obj/Debug/netcoreapp3.1/CQRSMeetup.WriteDomain.csproj.CoreCompileInputs.cache
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.WriteDomain/obj/Debug/netcoreapp3.1/CQRSMeetup.WriteDomain.csproj.CopyComplete
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.WriteDomain/obj/Debug/netcoreapp3.1/CQRSMeetup.WriteDomain.dll
+/Users/ugursinansagiroglu/Projects/CQRS Example/cqrs-meetup-2021/CQRSMeetup/CQRSMeetup.WriteDomain/obj/Debug/netcoreapp3.1/CQRSMeetup.WriteDomain.pdb
